@@ -11,6 +11,6 @@ public class floatingpoint {
 		Double resultDiff = firstNumber - secondNumber;
 		Double resultProduct = firstNumber * secondNumber;
 		System.out.println("Their sum is: " + resultAdd + "\nTheir difference is: " + resultDiff + "\nTheir product is: " + resultProduct);
-		
+		scantext.close();
 	}
 }
